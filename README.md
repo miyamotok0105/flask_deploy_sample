@@ -1,6 +1,7 @@
 # flask_deploy_sample
 
 
+flaskをwebサーバーにデプロイするメモ。
 
 
 
